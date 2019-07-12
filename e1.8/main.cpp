@@ -1,15 +1,10 @@
-//
-//  main.cpp
-//  e1.8
-//
-//  Created by Sergio campos on 5/19/19.
-//  Copyright © 2019 Sergio campos. All rights reserved.
-//
+// • E1.8Write a program that prints a poem of your choice. If you don’t have a favorite poem, search the Internet for “Emily Dickinson” or “e e cummings”.
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+using namespace std;
+
+int main()
+{
+    cout << "random poem\nsorry..." << endl;
 }
